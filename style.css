@@ -1,8 +1,8 @@
 .background {
-    background-color: black;
-    color: yellow;
+    background-color: rgb(8, 7, 7);
+    color: rgb(0, 255, 64);
     text-align: center;
     margin-top: 10%;
     font-size: 44px;
-    
+
 }
